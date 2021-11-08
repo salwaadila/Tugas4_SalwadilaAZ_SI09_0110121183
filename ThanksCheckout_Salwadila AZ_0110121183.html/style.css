@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 1px solid black
+}
+
+nav {
+    display: flex; 
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    background-color: rgb(162, 167, 170);
+}
+
+#kategori {
+    list-style-type: none;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#satu {
+    list-style-type: none;
+    display: flex;
+    margin-left: auto;
+    gap: 20px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.one {
+    text-decoration: none
+}
+
+#dua {
+    display: flex;
+    align-items: center; 
+    gap: 20px
+}
+
+#tiga {
+    text-decoration: none
+}
+
+#div1 {
+    display: flex; 
+    gap: 20px; 
+    margin-top: 100px; 
+    padding: 10px
+}
+
+#main1 {
+    width: 65%;
+    align-items: center;
+    gap: 10px
+}
+
+#div2 {
+    display: flex; 
+    align-items: center; 
+    gap: 10px
+}
+
+#div3 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#huha {
+    padding: 0; 
+    margin: 0
+}
+
+#huha2 {
+    padding: 0;
+    margin: 0
+}
+
+#huha3 {
+    padding-left: 35px
+}
